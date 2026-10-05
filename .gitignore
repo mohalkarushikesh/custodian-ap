@@ -1,4 +1,4 @@
-# Python
+# thon
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -20,3 +20,5 @@ mlflow.db
 data/models/
 *.safetensors
 *.gguf
+
+.venv/
