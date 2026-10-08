@@ -388,15 +388,15 @@ BankPayeeAgent/
 
 ## Custodian Dashbord 
 
-![custodian dashboard](/dashboard_1.png)
-![custodian review queue](/review_queue.png)
-![custodian ledger](/ledger_with_transactions.png)
-![custodian governance layers](/governance_layers.png)
-![custodian audit](/Audit.png)
+![custodian dashboard](./assets/dashboard_1.png)
+![custodian review queue](./assets/review_queue.png)
+![custodian ledger](./assets/ledger_with_transactions.png)
+![custodian governance layers](./assets/governance_layers.png)
+![custodian audit](./assets/Audit.png)
 
 ---
 
 ### Sample Invoice 
 
-![Sample Invoice submission](/submit_invoice.png)
-![Sampled Processed Invoice](/processed_invoice.png)
+![Sample Invoice submission](./assets/submit_invoice.png)
+![Sampled Processed Invoice](./assets/processed_invoice.png)
