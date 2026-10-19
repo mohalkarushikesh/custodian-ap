@@ -9,7 +9,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 # Deterministic, offline scoring (conftest also sets CUSTODIAN_DISABLE_LLM).
-os.environ.pop("OPENAI_API_KEY", None)
+os.environ.pop("GEMINI_API_KEY", None)
 os.environ.pop("GROQ_API_KEY", None)
 os.environ.pop("HUGGINGFACE_API_KEY", None)
 os.environ.pop("HF_TOKEN", None)
