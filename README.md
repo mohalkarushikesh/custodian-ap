@@ -220,6 +220,7 @@ API key is used** — a bare name means OpenAI:
 
 | `CUSTODIAN_LLM_MODEL`                          | Provider     | Key it reads           |
 | ---------------------------------------------- | ------------ | ---------------------- |
+| `gemini-3.8-flash`                             | Gemini       | `GEMINI_API_KEY`       |
 | `gpt-4o-mini`                                  | OpenAI       | `OPENAI_API_KEY`       |
 | `groq/llama-3.1-8b-instant`                    | Groq         | `GROQ_API_KEY`         |
 | `huggingface/meta-llama/Llama-3.1-8B-Instruct` | Hugging Face | `HUGGINGFACE_API_KEY`  |
